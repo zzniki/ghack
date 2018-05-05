@@ -1,0 +1,10 @@
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\bin\Release\GHack.exe.config
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\bin\Release\GHack.exe
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\bin\Release\GHack.pdb
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.Form1.resources
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.Properties.Resources.resources
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.csproj.GenerateResource.Cache
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.csproj.CoreCompileInputs.cache
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.exe
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.pdb
+C:\Users\Z_Falcon6\source\repos\GHack\GHack\obj\Release\GHack.csprojResolveAssemblyReference.cache
